@@ -1,10 +1,11 @@
 # Spatio-temporal-Hierarchical-Dirichlet-Processes
 Code for ECCV 2016 paper "Globally Continuous and Non-Markovian Crowd Activity Analysis from Videos"
 
-Copyright
+<h1>Copyright</h1>
+
 For research purpose only. Get in touch at h.e.wang@leeds.ac.uk if for any other purposes
 
-Citation
+<h1>Citation</h1>
 Please cite the following paper if you would like to use the programme for your research projects:
 
 @inproceedings{wang2016globally,
@@ -17,12 +18,12 @@ Please cite the following paper if you would like to use the programme for your 
   organization={Springer}
 }
 
-Platform
+<h1>Platform</h1>
 The program is compiled on windows 10 under Visual Studio 2013. External libs include log4c++, boost and tinyxml2. However, all the dlls are already included, so it should work. I also needs the c++ runtime libs.
 
-Files:
+<h1>Files</h1>
 All files are in the programe.rar
 
-Disclaimer
+<h1>Disclaimer</h1>
 
 This is the first version of the release and I am fully aware that much more work should be done to make it easier to use and run more efficiently. So I cannot guarantee that the code is completely bug-free. 
