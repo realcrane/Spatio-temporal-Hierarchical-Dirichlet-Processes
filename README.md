@@ -24,4 +24,4 @@ The rest is in the Readme.txt file.
 
 7. Disclaimer
 
-This is the first version of the release and I am fully aware that much more work should be done to make it easier to use and run more efficiently. So I cannot guarantee that the code is completely bug-free or it will be under regular maintenance. 
+This is the first version of the release and I am fully aware that much more work should be done to make it easier to use and run more efficiently. So I cannot guarantee that the code is completely bug-free. 
