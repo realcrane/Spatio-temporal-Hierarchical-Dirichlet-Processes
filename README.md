@@ -19,7 +19,7 @@ Please cite the following paper if you would like to use the programme for your 
 }
 
 <h1>Platform</h1>
-The program is compiled on windows 10 under Visual Studio 2013. External libs include log4c++, boost and tinyxml2. However, all the dlls are already included, so it should work. I also needs the c++ runtime libs.
+The program is compiled on windows 10 under Visual Studio 2013. External libs include log4c++, boost and tinyxml2. However, all the dlls are already included, so it should work. It also needs the c++ runtime libs.
 
 <h1>Files</h1>
 All files are in the programe.rar
